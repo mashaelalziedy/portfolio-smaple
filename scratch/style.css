@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(227, 226, 226);
+}
+
+.nav-link{
+    color: rgb(148, 174, 145);
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: black;
+}
+.nav{
+    justify-content: space-around;
+}
+
+.home-img{
+    margin-top: 5%;
+}
+
+.home-head{
+    margin-top: 18%;
+    font-family: 'Cute Font', sans-serif;
+    font-size: 400%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 100,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.card-body{
+    background-color: rgb(159, 171, 157);
+    color: rgb(227, 226, 226);
+    font-family: 'Cute Font', sans-serif;
+    font-size: 25px;
+}
+
+.card{
+    margin: 5%;
+    display: inline-flex;
+}
